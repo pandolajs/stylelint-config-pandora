@@ -1,0 +1,23 @@
+{
+  "name": "stylelint-config-pandora",
+  "version": "0.0.1",
+  "description": "A stylelint rule preset for pandorankjs project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandolajs/stylelint-config-pandora.git"
+  },
+  "keywords": [
+    "stylelint",
+    "pandorajs"
+  ],
+  "author": "JohnHou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pandolajs/stylelint-config-pandora/issues"
+  },
+  "homepage": "https://github.com/pandolajs/stylelint-config-pandora#readme"
+}

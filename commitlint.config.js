@@ -6,7 +6,7 @@
  *
  * @description
  *
- * For more details, please read
+ * For more details, please read http://marionebl.github.io/commitlint/#/reference-rules
 */
 
 module.exports = {
@@ -22,7 +22,7 @@ module.exports = {
         'test'
       ]
     ],
-    'header-max-length': [2, 'always', 60],
+    'header-max-length': [2, 'always', 100],
     'body-max-length': [2, 'always', 100],
     'body-max-line-length': [2, 'always', 1],
     'footer-max-length': [2, 'always', 100],

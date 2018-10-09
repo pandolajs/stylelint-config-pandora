@@ -32,6 +32,8 @@ Other override rules are:
 
 Please feel free to commit any of issues and PRs.
 
+> You must comply with [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/#specification) for your commits and PRs.
+
 ## License
 
 MIT

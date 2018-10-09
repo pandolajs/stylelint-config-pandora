@@ -1,6 +1,6 @@
 # stylelint-config-pandora
 
-This shared stylelint config extend `stylelint-config-standard`, override some rules for CSS MODULE support.
+This sharable stylelint config extend `stylelint-config-standard`, override some rules for CSS MODULE support.
 
 The list of support for CSS MODULE rules are:
 

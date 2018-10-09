@@ -12,12 +12,24 @@
   },
   "keywords": [
     "stylelint",
-    "pandorajs"
+    "stylelint-config",
+    "pandora"
   ],
   "author": "JohnHou",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/pandolajs/stylelint-config-pandora/issues"
   },
-  "homepage": "https://github.com/pandolajs/stylelint-config-pandora#readme"
+  "homepage": "https://github.com/pandolajs/stylelint-config-pandora#readme",
+  "dependencies": {
+    "stylelint-config-standard": "^18.2.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^8.3.0 || ^9.0.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^7.2.0",
+    "@commitlint/config-conventional": "^7.1.2",
+    "husky": "^1.1.1"
+  }
 }

@@ -21,6 +21,6 @@ module.exports = {
         ignorePseudoClasses: [ 'global', 'local' ]
       }
     ],
-    'number-leading-zero': 'never' 
+    'number-leading-zero': 'never'
   }
 }
